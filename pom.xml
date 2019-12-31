@@ -35,7 +35,7 @@
         <commonscollections>3.2.1</commonscollections>
         <commonslang>2.6</commonslang>
         <elasticsearch>5.3.3</elasticsearch>
-        <springdata.commons>1.13.9.RELEASE</springdata.commons>
+        <springdata.commons>1.13.13.RELEASE</springdata.commons>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
