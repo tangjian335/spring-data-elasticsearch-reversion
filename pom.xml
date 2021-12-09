@@ -26,7 +26,7 @@
 
     <properties>
         <cdi>1.0</cdi>
-        <jackson>2.8.10</jackson>
+        <jackson>2.9.10.8</jackson>
         <dist.key>DATAES</dist.key>
         <source.level>1.8</source.level>
         <lombok>1.16.18</lombok>
