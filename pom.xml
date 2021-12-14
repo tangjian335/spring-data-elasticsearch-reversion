@@ -30,7 +30,7 @@
         <dist.key>DATAES</dist.key>
         <source.level>1.8</source.level>
         <lombok>1.16.18</lombok>
-        <log4j>2.8.2</log4j>
+        <log4j>2.16.0</log4j>
         <jodatime>2.9.9</jodatime>
         <commonscollections>3.2.1</commonscollections>
         <commonslang>2.6</commonslang>
